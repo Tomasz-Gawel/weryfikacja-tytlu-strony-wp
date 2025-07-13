@@ -1,1 +1,1 @@
-# weryfikacja-tytu-u-strony-wp
+# weryfikacja-tytulu-strony-wp
